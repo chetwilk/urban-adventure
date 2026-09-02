@@ -60,3 +60,6 @@ dkms.conf
 build/
 bin/
 obj/   
+
+# Vim swap files
+*.swp

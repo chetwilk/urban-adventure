@@ -4,7 +4,9 @@ int main(void)
 {
 	printf("Hello, world!\n");
 
-	printf("Hello from the C programming language!\n");
+	char language = 'C';
+
+	printf("Hello from the %c programming language!\n", language);
 
 	return 0;
 }
